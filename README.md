@@ -1,6 +1,6 @@
 # File Integration Application
 
-My first original C application.
+My first memorable C application.
 
 This application accepts two file names as arguments and displays their contents as a single output.
 
